@@ -71,4 +71,4 @@ Examples of Milestone for MP1:
 ### Notes for the Parts
 
 You may need to use more parts than the ones above if you want stabilize parts of your circuit
-such as the potentiometer input, button debouncing. etc.
+such as the potentiometer input, button debouncing. etc. There are both hardware and software methods to perform these
